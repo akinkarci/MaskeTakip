@@ -1,0 +1,15 @@
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\bin\Debug\net8.0\Business.dll
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.dll
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\AK\enginkurs2024\source\repos\Solution5SaatlikEgitim\Business\obj\Debug\net8.0\ref\Business.dll
